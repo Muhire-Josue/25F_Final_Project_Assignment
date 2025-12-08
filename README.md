@@ -71,7 +71,7 @@ kubectl rollout restart deployment/$DEPLOYMENT_NAME
 | Product Service | https://github.com/Muhire-Josue/product-service-L8 | https://hub.docker.com/repository/docker/josue009/product-service-l8/general |
 | Makeline Service | https://github.com/Muhire-Josue/makeline-service-L8 |https://hub.docker.com/repository/docker/josue009/makeline-service-l8/general|
 | virtual customer | https://github.com/Muhire-Josue/virtual-customer-L8 | https://hub.docker.com/repository/docker/josue009/virtual-customer-l8/general |
-| virtual worker | https://hub.docker.com/repository/docker/josue009/virtual-customer-l8/general | https://hub.docker.com/repository/docker/josue009/virtual-worker-l8/general |
+| virtual worker | https://github.com/Muhire-Josue/virtual-worker-L8 | https://hub.docker.com/repository/docker/josue009/virtual-worker-l8/general |
 
 
 ### Demo Video
