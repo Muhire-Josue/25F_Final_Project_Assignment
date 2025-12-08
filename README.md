@@ -6,7 +6,8 @@ This lab implements a full CI/CD pipeline using **GitHub Actions**, **Docker Hub
 
 ## 📌 Updated Architecture Diagram
 *(Attach your updated Draw.io diagram here)*  
-`![architecture-diagram](./architecture.png)`
+
+<img width="1715" height="809" alt="Screenshot 2025-12-08 at 12 53 24" src="https://github.com/user-attachments/assets/abe2aa1d-e59d-4fb1-8d4e-594cf1e81de3" />
 
 ---
 
