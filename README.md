@@ -76,4 +76,4 @@ kubectl rollout restart deployment/$DEPLOYMENT_NAME
 
 ### Demo Video
 
-Youtube
+[Youtube](https://youtu.be/H-CgoAewpGA)
